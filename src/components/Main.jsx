@@ -28,10 +28,10 @@ const Main = () => {
             />
         </h2>
     <div className='flex justify-between pt-6 max-w-[200px] w-full'>
-        <FaTwitter size={20} className='cursor-pointer'  />
-        <FaInstagram size={20} className='cursor-pointer' />
-        <FaLinkedin size={20} className='cursor-pointer' />
-        <FaGithub  size={20} className='cursor-pointer'/>
+        <FaTwitter size={20} className='cursor-pointer hover:scale-110 ease-in duration-100 '  />
+        <FaInstagram size={20} className='cursor-pointer hover:scale-110 ease-in duration-100' />
+        <FaLinkedin size={20} className='cursor-pointer hover:scale-110 ease-in duration-100' />
+        <FaGithub  size={20} className='cursor-pointer hover:scale-110 ease-in duration-100'/>
     </div>
     </div>
         </div>   
