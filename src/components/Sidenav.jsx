@@ -4,6 +4,7 @@ import {GrProjects} from 'react-icons/gr'
 import { BsEnvelopeAt } from "react-icons/bs";
 import { MdDocumentScanner } from "react-icons/md";
 import { FaProjectDiagram, FaRProject } from "react-icons/fa";
+
 const Sidenav = () => {
     const [nav, setNav] = useState(false);
     const handleNav = () => {
